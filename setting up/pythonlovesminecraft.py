@@ -1,0 +1,5 @@
+print(2+2)
+print("w"+"o"*20)
+print("python")
+print("<3s")
+print("minecraft")
